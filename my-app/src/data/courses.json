@@ -1,0 +1,163 @@
+[
+  {
+    "courseId": "CSCI1101",
+    "courseName": "Computer Science I",
+    "school": "MCAS",
+    "professorName": "Professor Samary",
+    "description": "Satisfies Core requirement for Mathematics for CSCI1101 and CSCI1103. This course is an introduction to the art and science of computer programming and to some of the fundamental concepts of computer science. Students will write programs in the Python programming language. Good program design methodology will be stressed throughout. There will also be a study of some of the basic notions of computer science, including computer systems organization, files and some algorithms of fundamental importance.",
+    "semestersOffered": ["Fall", "Spring"],
+    "major": "Computer Science",
+    "prereq": []
+  },
+  {
+    "courseId": "CSCI1102",
+    "courseName": "Computer Science II",
+    "school": "MCAS",
+    "professorName": "Professor Samary",
+    "description": "A course on the fundamentals of programming from a lower-level perspective. Students will learn the basics of C++, a strongly-typed, high-performance language that compiles down to programs that run without a virtual machine. Thecoursewill cover concepts such as the representation of data with bytes, base-2 and base-16 numbers, memory addresses, and memory allocation. Some advanced programming concepts will be discussed, including elementary algorithms, recursion, and the basics of object-oriented programming. In addition to gaining programming experience, students will also be introduced to some common tools and techniques, such as the text-only command interface, file system operations, and version control with Git.",
+    "semestersOffered": ["Fall", "Spring"],
+    "major": "Computer Science",
+    "prereq": ["CSCI1101"]
+  },
+  {
+    "courseId": "CSCI2243",
+    "courseName": "Logic and Computation",
+    "school": "MCAS",
+    "professorName": "Professor McTague",
+    "description": "A course in the mathematical foundations of Computer Science, illustrated throughout with applications such as sets and functions, propositional and predicate logic, induction and recursion, basic number theory, and mathematical models of computation such as formal languages, finite state machines, and Turing machines.",
+    "semestersOffered": ["Fall", "Spring"],
+    "major": "Computer Science",
+    "prereq": ["CSCI1101"]
+  },
+  {
+    "courseId": "CSCI2254",
+    "courseName": "Web Application Development",
+    "school": "MCAS",
+    "professorName": "Professor Yun",
+    "description": "The web connects our society, providing enormous opportunities for changing and improving how we live every day, from sharing information to interacting with others. We have witnessed the power of the web through various web-based applications, including social media, productivity, and transportation applications. These digital utilities have seamlessly integrated into our routines, fundamentally altering our methods of communication, work, and mobility in recent times.Students will learn how to develop usable and useful web applications in this course. The overall architecture of Internet applications is examined at a high level. Special emphasis is placed on front-end development, including HTML, CSS, and JavaScript. This course further expands to encompass React, a component-based library for building frontend interfaces. The course will culminate with a final project where students take a human-centered design approach to address the needs of people by constructing a sophisticated web application.",
+    "semestersOffered": ["Fall", "Spring"],
+    "major": "Computer Science",
+    "prereq": ["CSCI1101", "CSCI1102"]
+  },
+  {
+    "courseId": "MATH2202",
+    "courseName": "Multivariable Calculus",
+    "school": "MCAS",
+    "professorName": "Professor Tao",
+    "description": "This course is for students majoring in Chemistry, Computer Science B.A. or B.S., Geology, Geophysics, Mathematics and Physics, as well as other students who have completed Calculus II. Topics in this course include vectors in two and three dimensions, analytic geometry of three dimensions, parametric curves, partial derivatives, the gradient, optimization in several variables, multiple integration with change of variables across different coordinate systems, line integrals, and Green's Theorem.",
+    "semestersOffered": ["Fall"],
+    "major": "Mathematics",
+    "prereq": ["MATH1101"]
+  },
+  {
+    "courseId": "MATH4410",
+    "courseName": "Differential Equations",
+    "school": "MCAS",
+    "professorName": "Professor Tao",
+    "description": "This course is a junior-senior elective intended primarily for the general student who is interested in seeing applications of mathematics. Among the topics covered will be the following: first order linear equations, higher order linear equations with constant coefficients, linear systems, qualitative analysis of non-linear systems, and an introduction to stability and bifurcations.",
+    "semestersOffered": ["Spring"],
+    "major": "Mathematics",
+    "prereq": ["MATH2202", "MATH2210"]
+  },
+  {
+    "courseId": "MATH3310",
+    "courseName": "Introduction to Abstract Algebra",
+    "school": "MCAS",
+    "professorName": "Professor Kelmer",
+    "description": "Students may not take both MATH3310 and MATH3311. This course studies four fundamental algebraic structures: groups, including subgroups, cyclic groups, permutation groups, symmetry groups and Lagrange's Theorem; rings, including sub-rings, integral domains, and unique factorization domains; polynomials, including a discussion of unique factorization and methods for finding roots; and fields, introducing the basic ideas of field extensions and ruler and compass constructions.",
+    "semestersOffered": ["Spring"],
+    "major": "Mathematics",
+    "prereq": ["MATH2216", "MATH2210"]
+  },
+  {
+    "courseId": "MATH4426",
+    "courseName": "Probability",
+    "school": "MCAS",
+    "professorName": "Professor Chambers",
+    "description": "This course provides a general introduction to modern probability theory. Topics include probability spaces, discrete and continuous random variables, joint and conditional distributions, mathematical expectation, the central limit theorem, and the weak law of large numbers. Applications to real data will be stressed, and we will use the computer to explore many concepts.",
+    "semestersOffered": ["Spring"],
+    "major": "Mathematics",
+    "prereq": ["MATH2202"]
+  },
+  {
+    "courseId": "BIOL1100",
+    "courseName": "General Biology",
+    "school": "MCAS",
+    "professorName": "Professor Martinez",
+    "description": "Designed for non-science majors who desire an introduction to cell and molecular biology, this course is also suggested for students who may be interested in the Biology major but lack sufficient preparation to enroll directly into BIOL 2000. Topics include the chemistry of life; biological membranes; cellular metabolism; cell structure; cell division; DNA replication/RNA transcription; protein synthesis; genetics/evolution. Lectures include discussions of the scientific method and current applications of biological investigations. Note: this course does not fulfill any requirement for the biology major, biochemistry major, or the pre-medical program.",
+    "semestersOffered": ["Fall"],
+    "major": "Biology",
+    "prereq": []
+  },
+  {
+    "courseId": "BIOL2000",
+    "courseName": "Molecules and Cells",
+    "school": "MCAS",
+    "professorName": "Professor Chen",
+    "description": "Foundational course required for Biology majors that introduces students to living systems at the molecular and cellular level of organization. Topics introduced in this course include basic cellular biochemistry, gene regulation, cellular organization and metabolism, and cell signaling and genetics.",
+    "semestersOffered": ["Fall"],
+    "major": "Biology",
+    "prereq": []
+  },
+  {
+    "courseId": "BIOL2040",
+    "courseName": "Investigations in Molecular Cell Biology Lab",
+    "school": "MCAS",
+    "professorName": "Professor Williams",
+    "description": "A 3-credit laboratory course designed to introduce students to the core techniques and experimental strategies of modern molecular cell biology within the context of an original research investigation. Students will learn to construct testable hypotheses, design experiments, and critically analyze experimental results. During the course of their investigations, students will gain proficiency in microbial cell culture, molecular cloning, genetic analysis, and molecular characterization. Students will also gain proficiency in scientific communication and the use of biological databases.",
+    "semestersOffered": ["Fall"],
+    "major": "Biology",
+    "prereq": ["BIOL2000"]
+  },
+  {
+    "courseId": "BIOL3050",
+    "courseName": "Genetics",
+    "school": "MCAS",
+    "professorName": "Professor Thompson",
+    "description": "This course focuses on genetics of microbial and eukaryotic organisms. Topics covered in the course include transmission genetics, chromosome structure, regulation of gene expression, population genetics, multifactorial inheritance and an introduction to genomics.",
+    "semestersOffered": ["Fall"],
+    "major": "Biology",
+    "prereq": ["BIOL2000"]
+  },
+  {
+    "courseId": "CHEM1011",
+    "courseName": "General Chemistry I",
+    "school": "MCAS",
+    "professorName": "Professor Davis",
+    "description": "This course is intended for students whose major interest is science or medicine. It offers a rigorous introduction to the principles of chemistry with special emphasis on quantitative relationships and chemical equilibrium and the structures of atoms, molecules, and crystals. The properties of the more common elements and compounds are considered against a background of these principles and the periodic table.",
+    "semestersOffered": ["Fall"],
+    "major": "Chemistry",
+    "prereq": []
+  },
+  {
+    "courseId": "CHEM2011",
+    "courseName": "Organic Chemistry I",
+    "school": "MCAS",
+    "professorName": "Professor Deak",
+    "description": "An introduction to the chemistry, properties, and uses of organic compounds. The correlation of structure with properties, reaction mechanisms, and the modern approach to structural and synthetic problems are stressed throughout. In the laboratory, the aim is acquisition of sound experimental techniques through the synthesis of selected compounds.",
+    "semestersOffered": ["Fall"],
+    "major": "Chemistry",
+    "prereq": ["CHEM1109"]
+  },
+  {
+    "courseId": "BIOL4350",
+    "courseName": "Biological Chemistry",
+    "school": "MCAS",
+    "professorName": "Unknown Professor",
+    "description": "This course is designed to introduce biology and biochemistry majors to the subject with an emphasis on understanding the biochemical principals that are crucial to biological function at the molecular, cellular, and organismal levels. The material includes: (1) the structure and chemistry of biomolecules, including amino acids, proteins, lipids, carbohydrates, and nucleic acids; (2) the key metabolic pathways and enzymology involved in the synthesis/degradation of carbohydrates; and (3) the cycling of energy through biological systems. Reference will be made to alterations in biochemical structures, processes, and pathways that relate to specific diseases.",
+    "semestersOffered": ["Fall"],
+    "major": "Biology",
+    "prereq": ["BIOL2000", "CHEM2231"]
+  },
+  {
+    "courseId": "MUSA1100",
+    "courseName": "Fundamentals of Music Theory",
+    "school": "MCAS",
+    "professorName": "Professor Hattori",
+    "description": "An introductory music theory course designed for students with a strong interest in music. As a Core course it includes speculations on how musical discourse informs our perception and understanding of the world around us. Students learn to acquire skills in music notation and transcription. The following theoretical concepts will be extensively covered: notation of pitch and rhythm, scales, intervals, chords, and harmonic progression. Students leave the course prepared for upper-level study in music theory and will begin to question broader issues concerning the meaning and use of music. Training in Keyboard Skills is required in the accompanying Lab.",
+    "semestersOffered": ["Fall"],
+    "major": "Music",
+    "prereq": []
+  }
+
+]

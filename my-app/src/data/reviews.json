@@ -1,0 +1,194 @@
+[
+  {
+    "courseId": "CSCI1101",
+    "reviewer": "Jane Doe",
+    "rating": 5,
+    "comment": "Great introduction to programming! The professor was very helpful and made complex concepts easy to understand."
+  },
+  {
+    "courseId": "CSCI1101",
+    "reviewer": "Sam Lee",
+    "rating": 4,
+    "comment": "Challenging but rewarding. Lots of hands-on assignments that really helped me learn Python fundamentals."
+  },
+  {
+    "courseId": "CSCI1102",
+    "reviewer": "Michael Chen",
+    "rating": 4,
+    "comment": "Great follow-up to CS I. Learning C++ was tough but Professor Samary explained memory management really well."
+  },
+  {
+    "courseId": "CSCI1102",
+    "reviewer": "Emily Rodriguez",
+    "rating": 5,
+    "comment": "Loved diving into lower-level programming concepts. The Git and command line portions were especially useful."
+  },
+  {
+    "courseId": "CSCI2243",
+    "reviewer": "David Park",
+    "rating": 3,
+    "comment": "Mathematical foundations were important but quite abstract. Professor McTague was knowledgeable but course was demanding."
+  },
+  {
+    "courseId": "CSCI2243",
+    "reviewer": "Sarah Johnson",
+    "rating": 4,
+    "comment": "Challenging course but essential for understanding theoretical CS. The logic and computation topics were fascinating."
+  },
+  {
+    "courseId": "CSCI2254",
+    "reviewer": "Kevin Wong",
+    "rating": 5,
+    "comment": "Amazing web development course! Professor Yun made React concepts clear and the final project was really engaging."
+  },
+  {
+    "courseId": "CSCI2254",
+    "reviewer": "Lisa Thompson",
+    "rating": 5,
+    "comment": "Great practical course. Learned so much about HTML, CSS, JavaScript, and React. Very applicable to real-world projects."
+  },
+  {
+    "courseId": "MATH2202",
+    "reviewer": "Alex Kim",
+    "rating": 4,
+    "comment": "Clear explanations and good examples. Homework was tough but Professor Tao was always willing to help during office hours."
+  },
+  {
+    "courseId": "MATH2202",
+    "reviewer": "Maria Garcia",
+    "rating": 5,
+    "comment": "Loved the class! Professor made multivariable calculus interesting with great visualizations and real-world applications."
+  },
+  {
+    "courseId": "MATH4410",
+    "reviewer": "James Miller",
+    "rating": 4,
+    "comment": "Differential equations were challenging but Professor Tao explained the applications really well. Great for STEM majors."
+  },
+  {
+    "courseId": "MATH4410",
+    "reviewer": "Rachel Green",
+    "rating": 3,
+    "comment": "Solid course content but quite demanding. Make sure you're comfortable with calculus before taking this."
+  },
+  {
+    "courseId": "MATH3310",
+    "reviewer": "Tyler Adams",
+    "rating": 4,
+    "comment": "Abstract algebra was mind-bending but Professor Kelmer made the abstract concepts as concrete as possible. Great course!"
+  },
+  {
+    "courseId": "MATH3310",
+    "reviewer": "Nicole Davis",
+    "rating": 5,
+    "comment": "Absolutely fascinating subject matter. Challenging but incredibly rewarding when you start to see the patterns and structures."
+  },
+  {
+    "courseId": "MATH4426",
+    "reviewer": "Chris Patel",
+    "rating": 3,
+    "comment": "Excellent introduction to probability theory. Professor Chambers used real data examples which made concepts much clearer."
+  },
+  {
+    "courseId": "MATH4426",
+    "reviewer": "Taylor Smith",
+    "rating": 5,
+    "comment": "Loved this course! The combination of theory and computer applications made probability come alive. Highly recommend!"
+  },
+  {
+    "courseId": "BIOL1100",
+    "reviewer": "Amanda Wilson",
+    "rating": 4,
+    "comment": "Perfect intro biology course for non-majors! Professor Martinez explained everything clearly and made biology accessible and interesting."
+  },
+  {
+    "courseId": "BIOL1100",
+    "reviewer": "Mark Johnson",
+    "rating": 4,
+    "comment": "Great course for getting a solid foundation in biology. The molecular concepts were challenging but well-explained."
+  },
+  {
+    "courseId": "BIOL2000",
+    "reviewer": "Jennifer Liu",
+    "rating": 5,
+    "comment": "Essential course for biology majors. Professor Chen did an amazing job explaining complex cellular processes and biochemistry."
+  },
+  {
+    "courseId": "BIOL2000",
+    "reviewer": "Daniel Rodriguez",
+    "rating": 2,
+    "comment": "Challenging but fundamental course. The cellular organization and metabolism topics were particularly well-covered."
+  },
+  {
+    "courseId": "BIOL2040",
+    "reviewer": "Sophie Zhang",
+    "rating": 5,
+    "comment": "Fantastic lab course! Professor Williams guided us through real research techniques. The molecular cloning and genetic analysis were incredibly valuable."
+  },
+  {
+    "courseId": "BIOL2040",
+    "reviewer": "Ryan Murphy",
+    "rating": 4,
+    "comment": "Intensive but rewarding lab experience. Learning to design experiments and analyze results was challenging but essential for research."
+  },
+  {
+    "courseId": "BIOL3050",
+    "reviewer": "Ashley Cooper",
+    "rating": 4,
+    "comment": "Professor Thompson made genetics fascinating! The population genetics and genomics sections were particularly well-explained."
+  },
+  {
+    "courseId": "BIOL3050",
+    "reviewer": "Marcus Williams",
+    "rating": 3,
+    "comment": "Solid genetics course but quite demanding. The chromosome structure and gene regulation topics required a lot of study time."
+  },
+  {
+    "courseId": "CHEM1011",
+    "reviewer": "Emma Thompson",
+    "rating": 4,
+    "comment": "Great introduction to chemistry! Professor Davis explained chemical equilibrium and atomic structure clearly. Challenging but fair."
+  },
+  {
+    "courseId": "CHEM1011",
+    "reviewer": "Jacob Martinez",
+    "rating": 5,
+    "comment": "Excellent foundation for pre-med students. The quantitative relationships and periodic table concepts were thoroughly covered."
+  },
+  {
+    "courseId": "CHEM2011",
+    "reviewer": "Olivia Brown",
+    "rating": 4,
+    "comment": "Professor Deak made organic chemistry approachable. The reaction mechanisms were complex but well-explained with good examples."
+  },
+  {
+    "courseId": "CHEM2011",
+    "reviewer": "Ethan Davis",
+    "rating": 3,
+    "comment": "Challenging course that requires dedication. The lab work was intensive but helped solidify the theoretical concepts."
+  },
+  {
+    "courseId": "BIOL4350",
+    "reviewer": "Isabella Garcia",
+    "rating": 5,
+    "comment": "This biochemistry course was outstanding! The biomolecule structures and metabolic pathways were clearly explained."
+  },
+  {
+    "courseId": "BIOL4350",
+    "reviewer": "Noah Wilson",
+    "rating": 4,
+    "comment": "Advanced course that ties together biology and chemistry beautifully. The disease-related examples made the material very relevant."
+  },
+  {
+    "courseId": "MUSA1100",
+    "reviewer": "Chloe Anderson",
+    "rating": 5,
+    "comment": "Professor Hattori made music theory accessible and engaging! The harmony and chord progression sections were particularly enjoyable."
+  },
+  {
+    "courseId": "MUSA1100",
+    "reviewer": "Liam Taylor",
+    "rating": 5,
+    "comment": "Great core course for music appreciation. The keyboard skills lab was challenging but really helped with understanding theory concepts."
+  }
+]
