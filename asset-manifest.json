@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/findmycourse/static/css/main.4017b0d8.css",
+    "main.js": "/findmycourse/static/js/main.073d9b37.js",
+    "index.html": "/findmycourse/index.html",
+    "main.4017b0d8.css.map": "/findmycourse/static/css/main.4017b0d8.css.map",
+    "main.073d9b37.js.map": "/findmycourse/static/js/main.073d9b37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4017b0d8.css",
+    "static/js/main.073d9b37.js"
+  ]
+}
