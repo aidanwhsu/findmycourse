@@ -10,7 +10,7 @@ function Nav() {
   };
 
   const isActive = (path) => {
-    if (path === '/home') {
+    if (path === '/' || path === '/home') {
       return location.pathname === '/' || location.pathname === '/home';
     }
     return location.pathname === path;
@@ -19,7 +19,7 @@ function Nav() {
   return (
     <nav className="navbar">
       <div className="nav-container">
-        <Link to="/home" className="nav-logo">
+        <Link to="/" className="nav-logo">
           FindMyCourse
         </Link>
         
@@ -30,8 +30,8 @@ function Nav() {
         <ul className={`nav-menu ${isMenuOpen ? 'open' : ''}`}>
           <li className="nav-item">
             <Link 
-              to="/home" 
-              className={`nav-link ${isActive('/home') ? 'active' : ''}`}
+              to="/" 
+              className={`nav-link ${isActive('/') ? 'active' : ''}`}
               onClick={() => setIsMenuOpen(false)}
             >
               Home
