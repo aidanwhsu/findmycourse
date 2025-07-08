@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/findmycourse/static/css/main.4017b0d8.css",
-    "main.js": "/findmycourse/static/js/main.6a4b6849.js",
+    "main.js": "/findmycourse/static/js/main.5d5888a0.js",
     "index.html": "/findmycourse/index.html",
     "main.4017b0d8.css.map": "/findmycourse/static/css/main.4017b0d8.css.map",
-    "main.6a4b6849.js.map": "/findmycourse/static/js/main.6a4b6849.js.map"
+    "main.5d5888a0.js.map": "/findmycourse/static/js/main.5d5888a0.js.map"
   },
   "entrypoints": [
     "static/css/main.4017b0d8.css",
-    "static/js/main.6a4b6849.js"
+    "static/js/main.5d5888a0.js"
   ]
 }
